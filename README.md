@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @OrangeZXZ
+- 👀 I’m interested in making independant games
+- 🌱 I’m currently learning C# with Godot
